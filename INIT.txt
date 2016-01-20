@@ -1,0 +1,15 @@
+1			model: Ising model (1) / Potts model (2)
+2			# of states*
+1.000E-14		h: external field (e.g. 1.000E-14)
+1.000E-01		initial: initial temperature (e.g. 1.000E-01)
+4.000E-00		final: final temperature (e.g. 4.000E+00)
+1.000E-02		delta: temperature increment (e.g. 1.000E-02)
+10			D: maximal dimension (e.g. 16)
+100			N: maximal # of iterations (e.g. 100)
+1			free energy only (0) / impurity tensor (1)
+1			HOSVD optimization: on (1), off (0)
+1			parametrization: ordinary** (0) / Decorated (1)
+2			threads: # of threads (e.g. 2)
+
+* for Ising the value is ignored and always set to be 2
+** Xiang for Ising, numerical factorization for Potts
