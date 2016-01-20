@@ -1,6 +1,6 @@
 # HoTRG
 
-This code is an implementation of the HOTRG algorithm in C++ based on the article: 
+This code is a C++ implementation of the HOTRG algorithm based on the article: 
 
 Coarse-graining renormalization by higher-order singular value decomposition
 Phys. Rev. B 86, 045139 (2012), http://arxiv.org/abs/1201.1144v4 
